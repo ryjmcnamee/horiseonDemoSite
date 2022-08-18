@@ -5,3 +5,9 @@
 
 ## Features
 After examining the files, you will notice that semantic elements are ordered correctly, accessibility elements have been included and all CSS has been consolidated. 
+
+## Screenshot
+<img alt="Picture of top navbar in live site" src="assets/images/sneakPeek.PNG"/></br>
+
+## Live Demo
+<a href="https://ryjmcnamee.github.io/horiseonDemoSite/">See Here...</a>
